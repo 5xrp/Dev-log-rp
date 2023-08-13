@@ -1,0 +1,57 @@
++ Kompletně nový základ serveru 
++ Přidán crafting pro nelegální účely 
++ Přidán propracovaný job pro EMS 
++ Přidán job pro GOV, DOJ a realitku  
++ Přidány joby pro zbylé podniky 
++ Pridány chybějící šatny do podníků 
++ Přidána nová brigáda (pošťák) 
++ Přepracován zahradník 
++ Přidána nová vysílačka 
++ Přidány veřejně prospěšné práce 
++ Prodlouženy notifikace na nízké jídlo/pití 
++ Joby pro LSPD byli kompletně předělány 
++ Podržením G necháte nastartovaný motor 
++ Upravena mapa - blipy (esc) 
++ Opraven bug s nasazováním doplňků skrz item  
++ Opraveno pár notifikací 
++ Opraven překlad v menu pro tvorbu postavy 
++ Opraveno velké množství bugů 
++ Přidána nová stanice pro LSPD 
++ Nový vzhled blipů 
++ Přidáno nové pracovní místo - popelář (nevyžaduje job - je na mapě) 
++ Přidána možnost pít alkohol 
++ Přidána možnost používat cigarety 
++ Přidány některé joby do business aplikace v telefonu 
++ Přidán item "Pytel" 
++ Přidán knockout 
++ Přidána možnost sundat oblečení skrz F10 menu 
++ Snížena spotřeba paliva 
++ Nyní lze prohledávat mrtvé osoby 
++ Prodejny alkoholu lze nyní vykrást 
++ Menu pro joby na úřadu nyní slouží jako navigace na vypsané pracovní místa (označí vám na mapě kde se místo nachází) 
++ Opraveno poutání/prohledávání z LSPD 
++ Opraven příkaz /jobs (už by to nemělo dělat problémy) 
++ Opraven bug s povyšováním skrz bossmenu 
++ Opraveny bugy s MDT 
++ Poupraveno celkové fungování ALT na hráče 
++ Upraveny shopy a ceny v nich 
++ Upraven YouTool (nářadí pro mechaniky) 
++ Upraven damage zbraní 
++ Přidány vykrádačky domů 
++ Přidán job pro mechaniky 
++ Přidán job pro Vanilla Unicorn 
++ Opraven dispatch pro LSPD 
++ Opraveno MDT pro LSPD
++ Opraven revive u EMS 
++ Spoutaný hráč již nemůže spoutat dalšího 
++ Opraveno odtahování vozidel pro LSPD 
++ Přidána nová queue 
++ Přidána šatna pro Bennys 
++ Výplata nyní chodí každých 16 minut 
++ Upraveny výplaty z brigád 
++ Sníženy ceny za oblečení a barbera 
++ Opraveny výtahy 
++ Opraveno bossmenu pro Yellowjack & DOJ 
++ Opraveno pár bugů u brigády - kurýr 
+
+- Odebrána předešlá queue 
