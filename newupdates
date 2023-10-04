@@ -1,8 +1,12 @@
-CHANGELOG 15.08.2023
-
-Přidán NonRPDriving script
-Fixed sekání serveru
-Optimalizace nějakých textur aut
-Automyčky
-Další lokace sbírání semínek
-Fix vykrádání malé banky
+CHANGELOG 1.10.2023
++ Přidán OX INVENTORY Inventář načetl 835 položek
++ Přidáno NOVE ITEMY
++ Přidáno nove ems a lspd menu
++ Přidáno Repair weapon
+ 
+CHANGELOG 2.10.2023
++ Přidaná ochrana proti odpojení ze serveru ve smrti když se v ded screanu odpojite zmizí vám věci 
++ Přidáno NOVE ITEMY
++ Přidáno nove oznámení pro pd
++ Přidáno vykrádání banky zcela nove
+ 
