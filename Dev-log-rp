@@ -1,0 +1,11 @@
+Seznam změn
+Všechny významné změny tohoto projektu budou zdokumentovány v tomto souboru.
+
+Formát je založen na Keep a Changelog a tento projekt dodržuje sémantické verzování .
+
+# **aktualizace   ** 
+
+```
++ Uprava mesta lepsi fps
+- odebrane mapy ktere se nepouzivaly predelana baze serveru odebran multi char zmena ekonomiky uprava jobs zlepseni inventar uprava shopu vylepsene eup fixnute erory vypnute zbytecne scripty pridane odmeny pro streamery pridane odmeny za invite hracu 
+```
